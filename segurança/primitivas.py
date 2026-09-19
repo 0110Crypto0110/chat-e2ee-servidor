@@ -1,1 +1,0 @@
-#Mecanismos de execução (Argon2, AES-256, HMAC, HKDF, assinaturas)
