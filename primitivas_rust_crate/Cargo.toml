@@ -1,0 +1,16 @@
+[package]
+name = "primitivas_rust"
+version = "0.1.0"
+edition = "2021"
+
+[lib]
+name = "primitivas_rust"
+crate-type = ["cdylib"]
+
+[dependencies]
+pyo3 = { version = "0.20", features = ["extension-module"] }
+argon2 = "0.5"
+aes-gcm = "0.10"
+hmac = "0.12"
+sha2 = "0.10"
+hkdf = "0.12"
