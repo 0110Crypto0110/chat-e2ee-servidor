@@ -171,7 +171,3 @@ CREATE TABLE IF NOT EXISTS offline_messages (
    *O servidor ficará escutando na porta configurada (padrão: `127.0.0.1:5000`) aguardando conexões dos clientes.*
 
 ---
-
-## 👤 Autor
-* **Victor Torres** (Desenvolvimento & Arquitetura)  
-* **Disciplina**: Segurança da Informação / Redes de Computadores — UABJ/UFRPE
